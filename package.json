@@ -4,7 +4,7 @@
   "description": "",
   "main": "dist/index.js",
   "publishConfig": {
-    "registry":"https://npm.pkg.github.com/ipl1987"
+    "registry":"https://npm.pkg.github.com/IPL1987"
   },
   "scripts": {
     "build": "webpack --mode production",
